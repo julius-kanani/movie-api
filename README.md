@@ -1,2 +1,3 @@
 # movie-api
-A Spring related Movie API
+A Spring related Movie API.
+Database: MongoDB.
